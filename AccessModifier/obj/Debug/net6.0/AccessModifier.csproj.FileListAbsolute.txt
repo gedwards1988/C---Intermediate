@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\bin\Debug\net6.0\AccessModifier.exe
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\bin\Debug\net6.0\AccessModifier.deps.json
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\bin\Debug\net6.0\AccessModifier.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\bin\Debug\net6.0\AccessModifier.dll
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\bin\Debug\net6.0\AccessModifier.pdb
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\obj\Debug\net6.0\AccessModifier.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\obj\Debug\net6.0\AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\obj\Debug\net6.0\AccessModifier.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\obj\Debug\net6.0\AccessModifier.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\obj\Debug\net6.0\AccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\obj\Debug\net6.0\AccessModifier.dll
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\obj\Debug\net6.0\refint\AccessModifier.dll
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\obj\Debug\net6.0\AccessModifier.pdb
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\obj\Debug\net6.0\AccessModifier.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\AccessModifier\obj\Debug\net6.0\ref\AccessModifier.dll

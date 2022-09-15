@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\bin\Debug\net6.0\SummaryS2.exe
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\bin\Debug\net6.0\SummaryS2.deps.json
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\bin\Debug\net6.0\SummaryS2.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\bin\Debug\net6.0\SummaryS2.dll
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\bin\Debug\net6.0\SummaryS2.pdb
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\obj\Debug\net6.0\SummaryS2.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\obj\Debug\net6.0\SummaryS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\obj\Debug\net6.0\SummaryS2.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\obj\Debug\net6.0\SummaryS2.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\obj\Debug\net6.0\SummaryS2.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\obj\Debug\net6.0\SummaryS2.dll
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\obj\Debug\net6.0\refint\SummaryS2.dll
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\obj\Debug\net6.0\SummaryS2.pdb
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\obj\Debug\net6.0\SummaryS2.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\SummaryS2\obj\Debug\net6.0\ref\SummaryS2.dll

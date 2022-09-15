@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\bin\Debug\net6.0\ClassesE2.exe
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\bin\Debug\net6.0\ClassesE2.deps.json
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\bin\Debug\net6.0\ClassesE2.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\bin\Debug\net6.0\ClassesE2.dll
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\bin\Debug\net6.0\ClassesE2.pdb
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\obj\Debug\net6.0\ClassesE2.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\obj\Debug\net6.0\ClassesE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\obj\Debug\net6.0\ClassesE2.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\obj\Debug\net6.0\ClassesE2.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\obj\Debug\net6.0\ClassesE2.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\obj\Debug\net6.0\ClassesE2.dll
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\obj\Debug\net6.0\refint\ClassesE2.dll
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\obj\Debug\net6.0\ClassesE2.pdb
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\obj\Debug\net6.0\ClassesE2.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\ClassesE2\obj\Debug\net6.0\ref\ClassesE2.dll

@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\Indexers\bin\Debug\net6.0\Indexers.exe
+C:\Users\garet\Documents\C# - Intermediate\Indexers\bin\Debug\net6.0\Indexers.deps.json
+C:\Users\garet\Documents\C# - Intermediate\Indexers\bin\Debug\net6.0\Indexers.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\Indexers\bin\Debug\net6.0\Indexers.dll
+C:\Users\garet\Documents\C# - Intermediate\Indexers\bin\Debug\net6.0\Indexers.pdb
+C:\Users\garet\Documents\C# - Intermediate\Indexers\obj\Debug\net6.0\Indexers.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\Indexers\obj\Debug\net6.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\Indexers\obj\Debug\net6.0\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\Indexers\obj\Debug\net6.0\Indexers.dll
+C:\Users\garet\Documents\C# - Intermediate\Indexers\obj\Debug\net6.0\refint\Indexers.dll
+C:\Users\garet\Documents\C# - Intermediate\Indexers\obj\Debug\net6.0\Indexers.pdb
+C:\Users\garet\Documents\C# - Intermediate\Indexers\obj\Debug\net6.0\Indexers.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\Indexers\obj\Debug\net6.0\ref\Indexers.dll

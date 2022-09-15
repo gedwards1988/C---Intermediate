@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\bin\Debug\net6.0\Chapter3switch.exe
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\bin\Debug\net6.0\Chapter3switch.deps.json
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\bin\Debug\net6.0\Chapter3switch.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\bin\Debug\net6.0\Chapter3switch.dll
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\bin\Debug\net6.0\Chapter3switch.pdb
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\obj\Debug\net6.0\Chapter3switch.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\obj\Debug\net6.0\Chapter3switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\obj\Debug\net6.0\Chapter3switch.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\obj\Debug\net6.0\Chapter3switch.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\obj\Debug\net6.0\Chapter3switch.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\obj\Debug\net6.0\Chapter3switch.dll
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\obj\Debug\net6.0\refint\Chapter3switch.dll
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\obj\Debug\net6.0\Chapter3switch.pdb
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\obj\Debug\net6.0\Chapter3switch.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\Chapter3switch\obj\Debug\net6.0\ref\Chapter3switch.dll

@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\bin\Debug\net6.0\Formatting.exe
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\bin\Debug\net6.0\Formatting.deps.json
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\bin\Debug\net6.0\Formatting.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\bin\Debug\net6.0\Formatting.dll
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\bin\Debug\net6.0\Formatting.pdb
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\obj\Debug\net6.0\Formatting.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\obj\Debug\net6.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\obj\Debug\net6.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\obj\Debug\net6.0\Formatting.dll
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\obj\Debug\net6.0\refint\Formatting.dll
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\obj\Debug\net6.0\Formatting.pdb
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\Vocabulary\Formatting\obj\Debug\net6.0\ref\Formatting.dll

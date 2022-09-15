@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\constructors\bin\Debug\net6.0\constructors.exe
+C:\Users\garet\Documents\C# - Intermediate\constructors\bin\Debug\net6.0\constructors.deps.json
+C:\Users\garet\Documents\C# - Intermediate\constructors\bin\Debug\net6.0\constructors.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\constructors\bin\Debug\net6.0\constructors.dll
+C:\Users\garet\Documents\C# - Intermediate\constructors\bin\Debug\net6.0\constructors.pdb
+C:\Users\garet\Documents\C# - Intermediate\constructors\obj\Debug\net6.0\constructors.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\constructors\obj\Debug\net6.0\constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\constructors\obj\Debug\net6.0\constructors.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\constructors\obj\Debug\net6.0\constructors.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\constructors\obj\Debug\net6.0\constructors.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\constructors\obj\Debug\net6.0\constructors.dll
+C:\Users\garet\Documents\C# - Intermediate\constructors\obj\Debug\net6.0\refint\constructors.dll
+C:\Users\garet\Documents\C# - Intermediate\constructors\obj\Debug\net6.0\constructors.pdb
+C:\Users\garet\Documents\C# - Intermediate\constructors\obj\Debug\net6.0\constructors.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\constructors\obj\Debug\net6.0\ref\constructors.dll

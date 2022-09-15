@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\garet\Documents\C# - Intermediate\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\garet\Documents\C# - Intermediate\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\garet\Documents\C# - Intermediate\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\garet\Documents\C# - Intermediate\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\garet\Documents\C# - Intermediate\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\garet\Documents\C# - Intermediate\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\garet\Documents\C# - Intermediate\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\Methods\obj\Debug\net6.0\ref\Methods.dll
