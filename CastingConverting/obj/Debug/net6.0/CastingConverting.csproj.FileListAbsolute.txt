@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\bin\Debug\net6.0\CastingConverting.exe
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\bin\Debug\net6.0\CastingConverting.deps.json
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\bin\Debug\net6.0\CastingConverting.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\bin\Debug\net6.0\CastingConverting.dll
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\bin\Debug\net6.0\CastingConverting.pdb
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\obj\Debug\net6.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\obj\Debug\net6.0\CastingConverting.dll
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\obj\Debug\net6.0\refint\CastingConverting.dll
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\obj\Debug\net6.0\CastingConverting.pdb
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\obj\Debug\net6.0\CastingConverting.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\CastingConverting\obj\Debug\net6.0\ref\CastingConverting.dll
