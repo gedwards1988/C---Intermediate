@@ -1,4 +1,5 @@
-﻿using System.Reflection.Metadata.Ecma335;
+﻿using System;
+using System.Reflection.Metadata.Ecma335;
 
 namespace factorial
 {
@@ -16,6 +17,12 @@ namespace factorial
                 {
                     Console.WriteLine($"{i}! is too big for a 32-bit integer");
                 }
+            }
+
+            for(int j = 1; j <= 30; j++)
+            {
+                Console.WriteLine($"{j} - {FibImperative(j)}");
+                Console.WriteLine($"{j} - {FibFunctional(j)}");
             }
         }
 
@@ -43,5 +50,31 @@ namespace factorial
                 }
             }
         }
+
+        static int FibImperative(int term)
+        {
+            if(term == 1)
+            {
+                return 0;
+            }
+            else if(term == 2)
+            {
+                return 1;
+            }
+            else
+            {
+                return FibImperative(term - 1) + FibImperative(term - 2);
+            }
+        }
+
+        static int FibFunctional(int num) =>
+            num switch
+            {
+                1 => 0,
+                2 => 1,
+                _ => FibFunctional(num - 1) + FibFunctional(num - 2)
+            };
+        
+
     }
 }

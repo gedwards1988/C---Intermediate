@@ -1,0 +1,12 @@
+C:\Users\garet\Documents\C# - Intermediate\classLib\bin\Debug\net6.0\CalculatorLib.deps.json
+C:\Users\garet\Documents\C# - Intermediate\classLib\bin\Debug\net6.0\CalculatorLib.dll
+C:\Users\garet\Documents\C# - Intermediate\classLib\bin\Debug\net6.0\CalculatorLib.pdb
+C:\Users\garet\Documents\C# - Intermediate\classLib\obj\Debug\net6.0\CalculatorLib.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\classLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\classLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\classLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\classLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\classLib\obj\Debug\net6.0\CalculatorLib.dll
+C:\Users\garet\Documents\C# - Intermediate\classLib\obj\Debug\net6.0\refint\CalculatorLib.dll
+C:\Users\garet\Documents\C# - Intermediate\classLib\obj\Debug\net6.0\CalculatorLib.pdb
+C:\Users\garet\Documents\C# - Intermediate\classLib\obj\Debug\net6.0\ref\CalculatorLib.dll
