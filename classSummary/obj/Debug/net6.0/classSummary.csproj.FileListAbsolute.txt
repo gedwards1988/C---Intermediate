@@ -1,0 +1,5 @@
+C:\Users\garet\Documents\C# - Intermediate\classSummary\obj\Debug\net6.0\classSummary.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\classSummary\obj\Debug\net6.0\classSummary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\classSummary\obj\Debug\net6.0\classSummary.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\classSummary\obj\Debug\net6.0\classSummary.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\classSummary\obj\Debug\net6.0\classSummary.csproj.CoreCompileInputs.cache

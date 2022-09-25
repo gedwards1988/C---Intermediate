@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\timesTable\bin\Debug\net6.0\timesTable.exe
+C:\Users\garet\Documents\C# - Intermediate\timesTable\bin\Debug\net6.0\timesTable.deps.json
+C:\Users\garet\Documents\C# - Intermediate\timesTable\bin\Debug\net6.0\timesTable.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\timesTable\bin\Debug\net6.0\timesTable.dll
+C:\Users\garet\Documents\C# - Intermediate\timesTable\bin\Debug\net6.0\timesTable.pdb
+C:\Users\garet\Documents\C# - Intermediate\timesTable\obj\Debug\net6.0\timesTable.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\timesTable\obj\Debug\net6.0\timesTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\timesTable\obj\Debug\net6.0\timesTable.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\timesTable\obj\Debug\net6.0\timesTable.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\timesTable\obj\Debug\net6.0\timesTable.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\timesTable\obj\Debug\net6.0\timesTable.dll
+C:\Users\garet\Documents\C# - Intermediate\timesTable\obj\Debug\net6.0\refint\timesTable.dll
+C:\Users\garet\Documents\C# - Intermediate\timesTable\obj\Debug\net6.0\timesTable.pdb
+C:\Users\garet\Documents\C# - Intermediate\timesTable\obj\Debug\net6.0\timesTable.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\timesTable\obj\Debug\net6.0\ref\timesTable.dll

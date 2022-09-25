@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\bin\Debug\net6.0\taxFunctions.exe
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\bin\Debug\net6.0\taxFunctions.deps.json
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\bin\Debug\net6.0\taxFunctions.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\bin\Debug\net6.0\taxFunctions.dll
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\bin\Debug\net6.0\taxFunctions.pdb
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\obj\Debug\net6.0\taxFunctions.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\obj\Debug\net6.0\taxFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\obj\Debug\net6.0\taxFunctions.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\obj\Debug\net6.0\taxFunctions.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\obj\Debug\net6.0\taxFunctions.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\obj\Debug\net6.0\taxFunctions.dll
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\obj\Debug\net6.0\refint\taxFunctions.dll
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\obj\Debug\net6.0\taxFunctions.pdb
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\obj\Debug\net6.0\taxFunctions.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\taxFunctions\obj\Debug\net6.0\ref\taxFunctions.dll

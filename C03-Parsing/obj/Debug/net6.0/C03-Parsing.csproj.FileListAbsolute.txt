@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\bin\Debug\net6.0\C03-Parsing.exe
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\bin\Debug\net6.0\C03-Parsing.deps.json
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\bin\Debug\net6.0\C03-Parsing.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\bin\Debug\net6.0\C03-Parsing.dll
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\bin\Debug\net6.0\C03-Parsing.pdb
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\obj\Debug\net6.0\C03-Parsing.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\obj\Debug\net6.0\C03-Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\obj\Debug\net6.0\C03-Parsing.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\obj\Debug\net6.0\C03-Parsing.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\obj\Debug\net6.0\C03-Parsing.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\obj\Debug\net6.0\C03-Parsing.dll
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\obj\Debug\net6.0\refint\C03-Parsing.dll
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\obj\Debug\net6.0\C03-Parsing.pdb
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\obj\Debug\net6.0\C03-Parsing.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\C03-Parsing\obj\Debug\net6.0\ref\C03-Parsing.dll

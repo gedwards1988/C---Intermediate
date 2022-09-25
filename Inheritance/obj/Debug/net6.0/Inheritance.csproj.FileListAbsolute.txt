@@ -1,0 +1,15 @@
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+C:\Users\garet\Documents\C# - Intermediate\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
