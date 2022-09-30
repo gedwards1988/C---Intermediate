@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            //TimesTable(6);
+            TimesTable(6);
             RunCardinalToOrdinal();
-            //RunFactorial();
+            RunFactorial();
             RunFibImperative();
             RunFibFunctional();
         }
