@@ -77,6 +77,29 @@ namespace PeopleApp
             bob.WriteToConsole();
             Console.WriteLine(bob.GetOrigin());
 
+            // Deconstructing a Person
+            var (name1, dob1) = bob;
+            Console.WriteLine($"Deconstructed: {name1} : {dob1}");
+
+            var (name2, dob2, fav2) = bob;
+            Console.WriteLine($"Deconstructed: {name2} : {dob2} : {fav2}");
+
+            //Paramter Methods
+            Console.WriteLine(bob.SayHello());
+            Console.WriteLine(bob.SayHello("Gareth"));
+
+
+            // Partial Class Person
+            Person sam = new()
+            {
+                Name = "Sam",
+                DateOfBirth = new(1970, 12, 25)
+            };
+
+            Console.WriteLine(sam.Origin);
+            Console.WriteLine(sam.Greeting);
+            Console.WriteLine(sam.Age);
+
 
             //----------------------------------------------------------------------//
             //-------------- BANK ACCOUNT --------------------------------------------
@@ -101,6 +124,22 @@ namespace PeopleApp
             Console.WriteLine(format: "{0} earned {1:C} interest",
                 arg0: gerrierAccount.AccountName,
                 arg1: gerrierAccount.Balance * BankAccount.InterestRate);
+
+
+            //----------------------------------------------------------------------//
+            //-------------- Parameters --------------------------------------------
+            //----------------------------------------------------------------------//
+
+            int a = 10;
+            int b = 20;
+            int c = 30;
+
+            // Out parameters must be initialised inside the class,
+            // so the value of c will be overwritten
+
+            Console.WriteLine($"Before: a = {a}, b = {b}, c = {c}");
+            bob.PassingParamters(a, ref b, out c);
+            Console.WriteLine($"Before: a = {a}, b = {b}, c = {c}");
 
         }
     }

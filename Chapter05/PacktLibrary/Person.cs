@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using System.Text;
 
 
 namespace Packt.Shared
 {
-    public class Person : Object
+    public partial class Person : Object
     {
         // Readonly Field(s)
         public readonly string Species = "Homo Sapiens";
@@ -31,6 +32,18 @@ namespace Packt.Shared
         {
             return $"{Name} was born on {HomePlanet}";
         }
+
+        public string SayHello()
+        {
+            return $"{Name}, says hello";
+        }
+
+        // Parameter Method(s)
+        public string SayHello(string name) // Overload for SayHello() above
+        {
+            return $"{Name}, says hello to {name}!";
+        }
+
 
         // Constructor(s)
         public Person()
@@ -59,6 +72,17 @@ namespace Packt.Shared
             name = Name;
             dob = DateOfBirth;
             fav = FavouriteAncientWonder;
+        }
+
+        public void PassingParamters(int x, ref int y, out int z)
+        {
+            // out PARAMETERS cannot have a default
+            // must be INITIALISED insdie the method
+            z = 99;
+
+            x++; // Will not execute
+            y++; // will reference b and increment
+            z++; // ignores input and will always put out 100
         }
 
     }
