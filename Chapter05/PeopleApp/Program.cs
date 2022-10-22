@@ -100,6 +100,10 @@ namespace PeopleApp
             Console.WriteLine(sam.Greeting);
             Console.WriteLine(sam.Age);
 
+            sam.FavouriteIceCream = "Chocolate Fudge";
+            Console.WriteLine($"Sams favourite ice cream is {sam.FavouriteIceCream}");
+            sam.FavouritePrimaryColour = "Red";
+            Console.WriteLine($"Sams favourite primary colour is {sam.FavouritePrimaryColour}");
 
             //----------------------------------------------------------------------//
             //-------------- BANK ACCOUNT --------------------------------------------
