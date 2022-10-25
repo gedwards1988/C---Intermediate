@@ -105,6 +105,24 @@ namespace PeopleApp
             sam.FavouritePrimaryColour = "Red";
             Console.WriteLine($"Sams favourite primary colour is {sam.FavouritePrimaryColour}");
 
+
+            sam.Children.Add(new() { Name = "Charlie" });
+            sam.Children.Add(new() { Name = "Ella" });
+
+            Console.WriteLine($"Sam's first child is called {sam.Children[0].Name}");
+            Console.WriteLine($"Sam's second child is called {sam.Children[1].Name}");
+
+            foreach (var child in sam.Children)
+            {
+                Console.WriteLine($"Sam - {child.Name}");
+            }
+
+            for (int i = 0; i < sam.Children.Count(); i++)
+            {
+                Console.WriteLine($"Child {i} is { sam.Children[i].Name}");
+            }
+
+
             //----------------------------------------------------------------------//
             //-------------- BANK ACCOUNT --------------------------------------------
             //----------------------------------------------------------------------//
@@ -144,6 +162,41 @@ namespace PeopleApp
             Console.WriteLine($"Before: a = {a}, b = {b}, c = {c}");
             bob.PassingParamters(a, ref b, out c);
             Console.WriteLine($"Before: a = {a}, b = {b}, c = {c}");
+
+
+
+            //----------------------------------------------------------------------//
+            //-------------- Pattern Matching --------------------------------------------
+            //----------------------------------------------------------------------//
+
+            object[] passengers =
+            {
+                new FirstClassPassenger {AirMiles = 1_419},
+                new FirstClassPassenger {AirMiles = 16_562},
+                new BusinessClassPassenger(),
+                new CoachClassPassenger {CarryOnKG = 25.7 },
+                new CoachClassPassenger {CarryOnKG = 0}
+            };
+
+
+            foreach (object passenger in passengers)
+            {
+                decimal flightCost = passenger switch
+                {
+                    FirstClassPassenger p when p.AirMiles > 35000   => 1500M,
+                    FirstClassPassenger p when p.AirMiles > 15000   => 1750M,
+                    FirstClassPassenger _                           => 2000M,
+                    BusinessClassPassenger _                        => 1000M,
+                    CoachClassPassenger p when p.CarryOnKG < 10.0   => 500M,
+                    CoachClassPassenger _                           => 650M,
+                    _                                               => 800M
+                };
+
+                Console.WriteLine($"Flight costs {flightCost:C} for {passenger}");
+
+            }
+
+
 
         }
     }

@@ -49,6 +49,18 @@ namespace Packt.Shared
             }
         }
 
+        // Indexer
+        public Person this[int index]
+        {
+            get
+            {
+                return Children[index]; 
+            }
+            set
+            {
+                Children[index] = value;
+            }
+        }
 
 
 

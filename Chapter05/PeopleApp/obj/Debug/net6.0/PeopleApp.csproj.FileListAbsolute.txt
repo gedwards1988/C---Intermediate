@@ -16,3 +16,5 @@ C:\Users\garet\Documents\C# - Intermediate\Chapter05\PeopleApp\obj\Debug\net6.0\
 C:\Users\garet\Documents\C# - Intermediate\Chapter05\PeopleApp\obj\Debug\net6.0\PeopleApp.pdb
 C:\Users\garet\Documents\C# - Intermediate\Chapter05\PeopleApp\obj\Debug\net6.0\PeopleApp.genruntimeconfig.cache
 C:\Users\garet\Documents\C# - Intermediate\Chapter05\PeopleApp\obj\Debug\net6.0\ref\PeopleApp.dll
+C:\Users\garet\Documents\C# - Intermediate\Chapter05\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.dll
+C:\Users\garet\Documents\C# - Intermediate\Chapter05\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.pdb
