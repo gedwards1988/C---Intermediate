@@ -46,7 +46,12 @@ namespace WorkingWithEFCore.AutoGen
                     .HasConstraintName("FK_Products_Categories");
             });
 
+            // global filter to remove discontinued products
+            modelBuilder.Entity<Product>()
+                .HasQueryFilter(p => !p.Discontinued);
+
             OnModelCreatingPartial(modelBuilder);
+
         }
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);

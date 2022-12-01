@@ -1,5 +1,9 @@
 ﻿using Packt.Shared;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+
 
 namespace WorkingWithEFCore
 {
@@ -9,8 +13,10 @@ namespace WorkingWithEFCore
         {
             Console.WriteLine($"Using {ProjectConstants.DatabaseProvider} database provider");
 
-            QueryingCategories();
-            FilteredIncludes();
+            //QueryingCategories();
+            // FilteredIncludes();
+            // QueryingProducts();
+            QueryingWithLike();
 
         }
 
@@ -18,6 +24,10 @@ namespace WorkingWithEFCore
         {
             using (Northwind db = new ())
             {
+
+                ILoggerFactory loggerFactory = db.GetService<ILoggerFactory> ();
+                loggerFactory.AddProvider(new ConsoleLoggerProvider());
+
                 Console.WriteLine("Categories and how many products they have:");
 
                 // Query to get all products in each category
@@ -36,7 +46,7 @@ namespace WorkingWithEFCore
                 }
 
                 /////////////////////// Practice ////////////////////////////////////
-                foreach (Category c in categories)
+                /* foreach (Category c in categories)
                 {
                     Console.WriteLine($"Category {c.CategoryId}. {c.CategoryName} - {c.Description}");
                 }
@@ -61,7 +71,7 @@ namespace WorkingWithEFCore
                         Console.WriteLine("Low Volume Products");
                         Console.WriteLine($"{c.CategoryName} - {c.Products.Count}");
                     }
-                }
+                }*/
             }
         }
 
@@ -97,7 +107,77 @@ namespace WorkingWithEFCore
             }
         }
         /// end
+        /// 
+
+        static void QueryingProducts()
+        {
+            using (Northwind db = new())
+            {
+
+                ILoggerFactory loggerFactory = db.GetService<ILoggerFactory>();
+                loggerFactory.AddProvider(new ConsoleLoggerProvider());
+
+                Console.WriteLine($"Products that have more than a number in stock, hightest at top");
+                string? input;
+                int stocks;
+
+                do
+                {
+                    Console.WriteLine("Enter a stock level: ");
+                    input = Console.ReadLine();
+                } while (!int.TryParse(input, out stocks));
+
+                IQueryable<Product>? products = db.Products?
+                    .Where(product => product.Stock > stocks)
+                    .OrderByDescending(product => product.Stock);
+
+                if (products is null)
+                {
+                    Console.WriteLine("No products Found!");
+                    return;
+                }
+
+                foreach (Product p in products)
+                {
+                    Console.WriteLine(
+                        "{0}: {1} has {2} in stock, which is more than {3}",
+                        p.ProductId, p.ProductName, p.Stock, stocks);
+                }
+
+            }
+        }
+        /// end
+        /// 
+
+        static void QueryingWithLike()
+        {
+            using (Northwind db = new())
+            {
+                ILoggerFactory loggerFactory = db.GetService<ILoggerFactory>();
+                loggerFactory.AddProvider(new ConsoleLoggerProvider());
+
+                Console.WriteLine("Enter part of product name: ");
+                string? input = Console.ReadLine();
+
+                IQueryable<Product>? products = db.Products?
+                    .Where(p => EF.Functions.Like(p.ProductName, $"%{input}%"));
 
 
+                if (products is null)
+                {
+                    Console.WriteLine("No product found!");
+                    return;
+                }
+
+                foreach (Product p in products)
+                {
+                    Console.WriteLine("{0} has {1} units in stock.  Discontinued {2}",
+                        p.ProductName, p.Stock, p.Discontinued);
+                }
+
+            }
+        }
+        /// end
+        /// 
     }
 }

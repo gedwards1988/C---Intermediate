@@ -19,6 +19,7 @@ namespace Packt.Shared
 
         [Column("UnitsInStock")]
         public short? Stock { get; set; }
+        public bool Discontinued { get; set; }
 
         // foreign key relationship
         public int CategoryId { get; set; }
